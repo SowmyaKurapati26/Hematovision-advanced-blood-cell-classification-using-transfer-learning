@@ -121,16 +121,3 @@ projectfiles/
 - **Responsive Design**: Optimized for all device sizes
 - **Professional Styling**: Medical-grade interface design
 
-## 📄 License
-
-This project is for **educational and research purposes**. 
-
-**Important**: Please ensure compliance with relevant medical and data privacy regulations when using in clinical settings.
-
-### Contact Information
-- **Project Issues**: Use GitHub issues for bug reports
-- **Feature Requests**: Submit through GitHub issues
-- **Documentation**: Check this README and code comments
-
-
-**HematoVision** - Advancing blood cell analysis through artificial intelligence 🩸🔬🤖 
